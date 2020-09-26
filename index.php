@@ -20,11 +20,7 @@ and open the template in the editor.
             function PCZ_Funcion3 (){
                 echo "Texto del ejemplo3";
             }
-            function PCZ_especial (){
-              echo "Lucas Padilla Hidalgo";
-              echo "Marc Ortiz Burgos";
-              
-            }
+
 
         ?>
     </body>
