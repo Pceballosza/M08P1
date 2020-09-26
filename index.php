@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             function PCZ_Funcion1 (){
-                echo "Texto del ejemplo"
+                echo "Texto del ejemplo";
             }
 
         ?>
