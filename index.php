@@ -21,7 +21,7 @@ and open the template in the editor.
                 echo "Texto del ejemplo3";
             }
             function PCZ_especial (){
-               
+              echo "Pablo Ceballos Zarzoso"; 
             }
 
         ?>
