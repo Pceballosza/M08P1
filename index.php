@@ -17,6 +17,9 @@ and open the template in the editor.
             function PCZ_Funcion2 (){
                 echo "Texto del ejemplo2";
             }
+            function PCZ_Funcion3 (){
+                echo "Texto del ejemplo3";
+            }
 
         ?>
     </body>
